@@ -1,1 +1,2 @@
-npm install -g @anthropic-ai/claude-code
+#!/bin/bash
+npm install -g @anthropic-ai/claude-code @github/copilot
